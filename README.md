@@ -1,2 +1,2 @@
 # helloWord
-java helo word
+Java Hello World
